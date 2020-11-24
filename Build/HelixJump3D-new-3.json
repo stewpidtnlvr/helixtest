@@ -1,0 +1,13 @@
+
+{
+"companyName": "Helix Jump 3D",
+"productName": "Helix Jump 3D",
+"dataUrl": "HelixJump3D-new-3.data.unityweb",
+"wasmCodeUrl": "HelixJump3D-new-3.wasm.code.unityweb",
+"wasmFrameworkUrl": "HelixJump3D-new-3.wasm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
